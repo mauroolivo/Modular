@@ -1,0 +1,15 @@
+import SwiftUI
+
+@main
+struct ModularApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView(
+                catalogInput: AppComposition.catalogInput(),
+                favoritesInput: AppComposition.favoritesInput(),
+                searchInput: AppComposition.searchInput(),
+                widgetsInput: AppComposition.widgetsInput()
+            )
+        }
+    }
+}

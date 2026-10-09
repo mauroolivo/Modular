@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace version = "1.0">
+   <FileRef location = "group:Modular.xcodeproj">
+   </FileRef>
+   <FileRef location = "group:Packages/DesignSystem">
+   </FileRef>
+   <FileRef location = "group:Packages/ItemDomain">
+   </FileRef>
+   <FileRef location = "group:Packages/Networking">
+   </FileRef>
+   <FileRef location = "group:Packages/AnalyticsAPI">
+   </FileRef>
+   <FileRef location = "group:Packages/AnalyticsLive">
+   </FileRef>
+   <FileRef location = "group:Packages/CatalogFeature">
+   </FileRef>
+   <FileRef location = "group:Packages/FavoritesFeature">
+   </FileRef>
+   <FileRef location = "group:Packages/SearchFeature">
+   </FileRef>
+</Workspace>

@@ -1,0 +1,51 @@
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcworkspace/xcuserdata/
+*.xcworkspace/xcshareddata/xcschemes/
+xcuserdata/
+*.xccheckout
+*.moved-aside
+DerivedData/
+*.hmap
+*.ipa
+*.xcarchive
+.DS_Store
+build/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+*.xcconfig
+*.resolved
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build artifacts
+*.app/
+*.framework/
+*.dylib
+*.deb
+
+# Test artifacts
+.coverage/
+*.profraw
+*.profdata
+
+# Temporary files
+*.swp
+*~
+.#*
+
+# Environment
+.env
+.env.local
