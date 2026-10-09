@@ -4,6 +4,8 @@ Production-style reference app showing modular SwiftUI architecture for iOS.
 
 `Modular` demonstrates how to structure a growing app with clear ownership, explicit dependency direction, and practical trade-offs.
 
+Companion article: [Modular Architecture](https://uimatters.io/articles/modular-architecture)
+
 ## What is included
 
 - 3 feature modules: `CatalogFeature`, `FavoritesFeature`, `SearchFeature`
